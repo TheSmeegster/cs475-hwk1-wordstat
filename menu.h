@@ -9,6 +9,6 @@
 #define MENU_H_
 
 // function declarations for the menu below
-int getMenuOption();
+void getMenuOption();
 
 #endif /* MENU_H_ */
